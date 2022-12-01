@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Даны два числа. Показать большее и меньшее число
 Console.WriteLine("Введите первое число");
 double number01 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите второе число");
